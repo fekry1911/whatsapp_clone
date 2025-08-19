@@ -61,7 +61,7 @@ class ChatScreen extends StatelessWidget {
             fit: BoxFit.cover,
           ),
           Positioned(
-            bottom: 1.h,
+            bottom: 6.h,
             left: 12.w,
             right: 12.w,
             child: SafeArea(

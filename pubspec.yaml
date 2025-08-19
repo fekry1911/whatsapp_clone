@@ -66,6 +66,7 @@ dependencies:
   shared_preferences: ^2.5.3
 
   cached_network_image: ^3.4.1
+  firebase_core: ^4.0.0
 
 
 

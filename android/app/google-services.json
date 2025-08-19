@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "416231278978",
+    "firebase_url": "https://chat-c2e7f-default-rtdb.firebaseio.com",
+    "project_id": "chat-c2e7f",
+    "storage_bucket": "chat-c2e7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416231278978:android:67c2113a0d3cd60be1e79b",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclOjV_FdvQ1VPc-tGCji0KgF4H2Rmkcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416231278978:android:389df2c43261e83fe1e79b",
+        "android_client_info": {
+          "package_name": "com.example.docway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclOjV_FdvQ1VPc-tGCji0KgF4H2Rmkcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416231278978:android:773dfe047bdf027ae1e79b",
+        "android_client_info": {
+          "package_name": "com.example.newchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclOjV_FdvQ1VPc-tGCji0KgF4H2Rmkcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416231278978:android:aa3684655bb8e529e1e79b",
+        "android_client_info": {
+          "package_name": "com.example.specific_education"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclOjV_FdvQ1VPc-tGCji0KgF4H2Rmkcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416231278978:android:fc34e772f7b71a1ce1e79b",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclOjV_FdvQ1VPc-tGCji0KgF4H2Rmkcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
