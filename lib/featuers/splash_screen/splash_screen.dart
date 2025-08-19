@@ -20,7 +20,6 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
 
-    // بعد 3 ثواني يروح للصفحة اللي بعدها
     Timer(Duration(seconds: 2), () {
       Navigator.pushReplacement(
         context,

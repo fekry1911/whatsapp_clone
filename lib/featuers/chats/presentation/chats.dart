@@ -48,8 +48,8 @@ class ChatsScreen extends StatelessWidget {
                       ),
                       transitionsBuilder: (context, animation, secondaryAnimation, child) {
                         final tween = Tween<Offset>(
-                          begin: const Offset(0, 1), // يبدأ من تحت الشاشة
-                          end: Offset.zero,           // ينتهي في مكانه الطبيعي
+                          begin: const Offset(0, 1),
+                          end: Offset.zero,
                         ).chain(CurveTween(curve: Curves.easeInOut));
 
                         return SlideTransition(

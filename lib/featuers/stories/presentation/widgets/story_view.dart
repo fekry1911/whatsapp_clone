@@ -74,7 +74,7 @@ class _StoryViewerState extends State<StoryViewer> {
       });
       startTimer();
     } else {
-      Navigator.pop(context); // لو خلصت آخر استوري
+      Navigator.pop(context);
     }
   }
 
@@ -114,10 +114,8 @@ class _StoryViewerState extends State<StoryViewer> {
         },
         child: Stack(
           children: [
-            /// الخلفية (الصورة)
             Positioned.fill(child: Image.network(story.url, fit: BoxFit.cover)),
 
-            /// الهيدر (البروجرس + البروفايل + زرار الإغلاق)
             Positioned(
               top: 40.h,
               left: 10.w,
